@@ -1,6 +1,6 @@
 # textcal
 
-Start a plain text columnar calendar
+Create a plain text columnar calendar
 file for planning multi-week events
 like sprints or vacations.
 
